@@ -1,6 +1,6 @@
 # Wix Store Fraud Detector AI Camp
 
-This **updated** project aims to detect fraudulent activity taking place in the AI Camp Wix Store.
+This **updated** project aims to detect fraudulent activity taking place in the AI Camp Wix Store. This was made over the course of 1 week by Santosh after a hard pivot from the original project.
 
 ## Quickstart
 
@@ -20,16 +20,6 @@ This section contains additional information regarding our project.
 We use Django for backend, Railway for deployment, and Railway w/ PostgreSQL for our database. For the Discord bot, which is currently on a seperate repo, we use Discord.py.
 
 Note: Only Santosh currently has access to the Railway db.
-
-### Workflow
-
-This is a very high-level workflow. We will be updating it and providing a more in-depth explanation later on.
-
-1. Webhook is sent to our backend regarding an invoice being sent. Our database is updated with the necessary information.
-2. Webhook is sent to our backend regarding an invoice being overdue. We send an email to the customer and update our database accordingly.
-3. Over the next 3 weeks, we will continue to remind our customer about the overdue invoice. If it is still not paid, the Avengers will be notified.
-
-Additionally, we will send be sending weekly reports to Richard and Michael regarding fraudulent activity via Discord.
 
 ## Database Information and ERD
 
@@ -73,9 +63,4 @@ To edit the database, edit ```models.py```, then run the following commands.
 1. ```$ python manage.py makemigrations```
 2. ```$ python manage.py migrate```
 
-The changes will immediately be reflected on Railway. As of now, we do not have a pro plan on Railway, meaning we cannot view the same database. You have two options
-
-1. Collaborate with me, Santosh, to see if your changes went through
-2. Create your own branch and connect your own PostgreSQL database from Railway to our Django project. View **this tutorial** for help.
-
-**Remember, when merging onto master, DO NOT OVERWRITE THE ORIGINAL RAILWAY DATABASE CREDENTIALS UNLESS SOMEONE TELLS YOU OTHERWISE!**
+The changes will immediately be reflected on Railway. You will need to reach out to **spatapati@joinstemist.org** to see if your changes have been reflected on the production database.
