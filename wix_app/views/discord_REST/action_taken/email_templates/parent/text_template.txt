@@ -1,0 +1,17 @@
+Dear {parent_name},
+
+I hope this message finds you well. We regret to inform you that, despite our previous reminders, the outstanding invoice for {student_name}'s participation in the {program_name} program has not been settled.
+
+Unfortunately, due to the non-payment of the invoice linked here: {preview_link}, we have no choice but to suspend {student_name}'s access to the program.
+
+We understand the importance of the educational experience for {student_name} and did everything in our capacity to avoid this situation. However, continued non-payment puts a strain on our ability to maintain the quality of services we provide.
+
+We understand that unexpected circumstances may arise, and we are open to discussing a feasible solution. Please contact us at your earliest convenience to discuss any challenges you may be facing.
+
+We value the participation of {student_name} in our program and hope to resolve this matter promptly to ensure their uninterrupted learning experience.
+
+Thank you for your understanding and cooperation.
+
+Sincerely,
+The AI Camp Team
+somebody@ai-camp.org

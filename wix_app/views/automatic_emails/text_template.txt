@@ -1,0 +1,18 @@
+Dear {first_name},
+
+I hope this message finds you well. We wanted to bring to your attention that your invoice for the {product_name} program, issued on {issue_date}, is now overdue. The payment was due on {due_date}, and we have not received the payment as of today.
+
+We understand that unforeseen circumstances can sometimes affect the payment process, but we kindly request your immediate attention to settle this outstanding invoice. Timely payments are crucial for maintaining the continuity of {student_name}'s participation in the program.
+
+We kindly remind you that the education and progress of {student_name} are important to us, and we don't want their learning experience to be interrupted. If the outstanding payment is not received within the next three weeks from the due date (by {three_weeks_after_due_date}), we may have no option but to consider suspending {student_name}'s access to the program.
+
+To resolve this matter, please find the invoice details here: {url}
+
+If you have already made the payment, please disregard this message. However, if you have any questions, concerns, or require assistance with the payment process, please do not hesitate to contact us at "somebody@ai-camp.org"
+
+Your prompt attention to this matter is greatly appreciated. We value your partnership and the educational journey of {student_name}. Thank you for your cooperation.
+
+Sincerely,
+
+The AI Camp Team
+somebody@ai-camp.org

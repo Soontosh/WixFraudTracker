@@ -1,0 +1,12 @@
+Dear {student_name},
+
+We hope this message finds you well. We have an important update regarding your participation in the {program_name} program that we need to share with you.
+
+Due to some challenges with the payment for the program, we regret to inform you that, unfortunately, we might have to pause your access to the program soon. We understand that this news might be a bit confusing or worrying, and we want to help you get back to enjoying the program as soon as possible.
+
+Thank you for being a part of the {program_name} program. We're here to support you, and we hope to see you back in the program soon.
+
+Best regards,
+
+The AI Camp Team
+somebody@ai-camp.org
