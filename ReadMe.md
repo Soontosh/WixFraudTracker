@@ -54,7 +54,7 @@ Contains information regarding all emails sent to customers about overdue invoic
 - send_date (Date & Time Field): Date and time at which email was sent
 
 ### ERD
-A simple ERD can be found [here](https://lucid.app/lucidchart/b38f4036-e9b4-4933-a6f4-87c41278a93a/edit?viewport_loc=-1921%2C21%2C3978%2C1768%2C0_0&invitationId=inv_0ac1b974-1ed6-430a-8c73-3c35115adf14)
+A simple ERD can be found internally. If you do not have access to this, please contact [Santosh](github.com/Soontosh)
 
 ### How to make changes
 
