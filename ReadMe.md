@@ -1,6 +1,6 @@
-# Wix Store Fraud Detector AI Camp
+# Wix Store Fraud Detector
 
-This **updated** project aims to detect fraudulent activity taking place in the AI Camp Wix Store. This was made over the course of 1 week by Santosh after a hard pivot from the original project.
+This **updated** project aims to detect fraudulent activity taking place in the Wix Store. This was made over the course of 1 week by Santosh after a hard pivot from the original project.
 
 ## Quickstart
 
