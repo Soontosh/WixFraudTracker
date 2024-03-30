@@ -54,7 +54,7 @@ Contains information regarding all emails sent to customers about overdue invoic
 - send_date (Date & Time Field): Date and time at which email was sent
 
 ### ERD
-A simple ERD can be found internally. If you do not have access to this, please contact [Santosh](github.com/Soontosh)
+A simple ERD can be found internally. If you do not have access to this, please contact [Santosh](https://github.com/Soontosh)
 
 ### How to make changes
 
